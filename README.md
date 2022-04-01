@@ -9,6 +9,7 @@ Sub-questions
 - What is the correlation between the temperature of different US states and the COVID-19 fatality rate?
 
 Datasets:
+
 From the COVID-19 Tracking API (The COVID Tracking Project)
 - DailyCovid
 - Racial Tracker
